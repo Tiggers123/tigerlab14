@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นาย ไทเกอร์ แทนเนอร์
+# STUDENT ID:650612083
